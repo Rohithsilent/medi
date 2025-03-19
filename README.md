@@ -1,4 +1,4 @@
-# Databutton app
+# Healthcare App
 
 This project consists of a FastAPI backend server and a React + TypeScript frontend application exported from Databutton.
 
